@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hey, I'm Ansh Shah  
 
-<!--
-**anshshah0/anshshah0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📖 About  
+I’m a high school data scientist and AI developer passionate about leveraging data and technology to create meaningful social impact.  
+I currently attend **Plano East Senior High School**, where I explore the intersection of **data analytics, finance, and machine learning** through both academic and nonprofit initiatives.  
 
-Here are some ideas to get you started:
+Outside of STEM, I enjoy **public speaking, mentoring through my nonprofit SecondStepTech**, and exploring topics in **business sustainability and growth**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills  
+I’m experienced with data-driven problem solving and proficient in:
+
+### Programming Languages
+- Python  
+- SQL  
+- Java  
+- JavaScript / HTML / CSS  
+- R
+- C++
+- Swift
+
+### Technical Focus Areas
+- Data Analytics & Visualization (Pandas, NumPy, Matplotlib, Tableau, Power BI)  
+- Machine Learning (XGBoost, Random Forest, KNN, Logistic Regression, SVM)  
+- Deep Learning (CNNs, RNNs, PyTorch, TensorFlow)  
+- Time-Series Forecasting (ARIMA, SARIMAX)  
+- Web Development (Flask, APIs, SQLite)  
+
+
+## 📫 Contact  
+- **LinkedIn:** [linkedin.com/in/anshshah0](https://www.linkedin.com/in/anshshah0)  
+- **Email:** [anshshah1102@gmail.com](mailto:anshshah1102@gmail.com)  
+- **GitHub:** [github.com/anshshah0](https://github.com/anshshah0)
