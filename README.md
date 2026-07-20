@@ -30,5 +30,5 @@ I’m experienced with data-driven problem solving and proficient in:
 
 ## Contact  
 - **LinkedIn:** [linkedin.com/in/anshshah0](https://www.linkedin.com/in/anshshah0)  
-- **Email:** [anshshah1102@gmail.com](mailto:anshshah1102@gmail.com)  
+- **Email:** [anshshah.tx@gmail.com](mailto:anshshah.tx@gmail.com)  
 - **GitHub:** [github.com/anshshah0](https://github.com/anshshah0)
