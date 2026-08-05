@@ -72,8 +72,8 @@
 ```text
 AI & Machine Learning     ███████████████████░
 Data-Driven Products      ██████████████████░░
-Finance & Markets         ████████████████░░░░
-Startups & Consulting     ████████████████░░░░
+Finance & Markets         █████████████████░░░
+Startups & Consulting     ███████████████████░
 Human-Centered Design     █████████████████░░░
 ```
 
