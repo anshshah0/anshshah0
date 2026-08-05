@@ -9,7 +9,6 @@ Data Analytics • ML/DL Builder
 
 * 📊 Applying data analytics and ML to social-impact problems
 * 🤖 Building out deep learning and time-series forecasting projects
-* 🎤 Mentoring students through **SecondStepTech**, my nonprofit
 * 📈 Exploring the intersection of finance, sustainability, and business growth
 
 ---
