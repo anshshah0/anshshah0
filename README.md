@@ -1,33 +1,41 @@
-# 👋 Hey, I'm Ansh Shah  
-
-## About  
-I’m passionate about leveraging data and technology to create meaningful social impact.  
-I currently attend **The University of Texas at Austin**, where I explore the intersection of **data analytics, finance, and machine learning**.
-
-Outside of STEM, I enjoy **public speaking, mentoring through my nonprofit SecondStepTech**, and exploring topics in **business sustainability and growth**.  
+### 👋 Hi, I'm Ansh Shah
+Informatics & Data Science @ The University of Texas at Austin 🤘
+Data Analytics • ML/DL Builder
 
 ---
 
-## Skills  
-I’m experienced with data-driven problem solving and proficient in:
+### ⚡ What I'm Focused On
 
-### Programming Languages
-- Python  
-- SQL  
-- Java  
-- JavaScript / HTML / CSS
-- R
-- C++
-- Swift
+* 📊 Applying data analytics and ML to social-impact problems
+* 🤖 Building out deep learning and time-series forecasting projects
+* 🎤 Mentoring students through **SecondStepTech**, my nonprofit
+* 📈 Exploring the intersection of finance, sustainability, and business growth
 
-### Technical Focus Areas
-- Data Analytics & Visualization (Pandas, NumPy, Matplotlib, Tableau, Power BI)  
-- Machine Learning (XGBoost, Random Forest, KNN, Logistic Regression, SVM)  
-- Deep Learning (CNNs, RNNs, PyTorch, TensorFlow)  
-- Time-Series Forecasting (ARIMA, SARIMAX)  
-- Web Development (Flask, APIs, SQLite)  
+---
 
+### 🛠️ Skills
 
-## Contact  
-- **LinkedIn:** [linkedin.com/in/anshshah0](https://www.linkedin.com/in/anshshah0)  
-- **Email:** [anshshah.tx@gmail.com](mailto:anshshah.tx@gmail.com)  
+**Languages**
+`Python` `SQL` `Java` `JavaScript` `HTML/CSS` `R` `C++` `Swift`
+
+**Data Analytics & Visualization**
+`Pandas` `NumPy` `Matplotlib` `Tableau` `Power BI`
+
+**Machine Learning**
+`XGBoost` `Random Forest` `KNN` `Logistic Regression` `SVM`
+
+**Deep Learning**
+`CNNs` `RNNs` `PyTorch` `TensorFlow`
+
+**Time-Series Forecasting**
+`ARIMA` `SARIMAX`
+
+**Web Development**
+`Flask` `APIs` `SQLite`
+
+---
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshshah0-blue?logo=linkedin)](https://www.linkedin.com/in/anshshah0)
+[![Email](https://img.shields.io/badge/Email-anshshah.tx%40gmail.com-red?logo=gmail)](mailto:anshshah.tx@gmail.com)
