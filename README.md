@@ -1,6 +1,6 @@
 <div align="center">
 
-# `ANSH SHAH`
+# ANSH SHAH
 
 ### Informatics + Human-Centered Data Science @ UT Austin 🤘
 
