@@ -25,11 +25,11 @@
 ### Languages
 
 `Python` `SQL` `Java` `JavaScript`
-`HTML/CSS` `R` `C++` `Swift`
+`HTML/CSS` `Swift` `Matlab` 
 
 ### Data & Visualization
 
-`Pandas` `NumPy` `Matplotlib`
+`Pandas` `NumPy` 
 `Tableau` `Power BI`
 
 </td>
