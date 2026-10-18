@@ -1,101 +1,228 @@
+
 <div align="center">
 
-# ANSH SHAH
+# Hey, I'm Ansh 👋
 
-### Informatics + Human-Centered Data Science @ UT Austin 🤘
+### Software Engineering × AI/ML × Human-Centered Data Science
 
-**Building intelligent systems where data, people, and business intersect.**
+**Informatics @ The University of Texas at Austin 🤘**
 
-`DATA ANALYTICS` · `MACHINE LEARNING` · `PRODUCT THINKING`
+*I build intelligent products that turn complex data into useful experiences.*
 
-## Currently Exploring
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshshah0/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anshshah@utexas.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-anshshah0-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anshshah0)
 
-* Applying data analytics and machine learning to social-impact problems
-* Developing deep-learning and time-series forecasting projects
-* Building full-stack data tools and interactive web experiences
-* Exploring how technology influences finance, sustainability, and business growth
-* Learning more about technical consulting and early-stage startups
+</div>
 
-## Technical Toolkit
+---
+
+## 👨‍💻 A Little About Me
+
+I'm an Informatics student at **UT Austin**, specializing in **Human-Centered Data Science**, with interests spanning software engineering, artificial intelligence, product development, and technology consulting.
+
+I enjoy working across the stack, whether that's building AI-powered developer tools, integrating machine learning into interactive environments, or designing products that solve everyday problems.
+
+My experience includes software engineering and analytics at **Boeing**, machine learning data work with **Uber AI Solutions**, and applied ML research at the **University of North Texas**.
+
+Outside of building, you'll probably find me at the gym, playing basketball, exploring Austin's food scene, or thinking about my next project.
+
+```yaml
+ansh@github:~$ whoami
+
+name: Ansh Shah
+location: Austin, Texas
+university: UT Austin
+major: Informatics
+focus: Human-Centered Data Science
+
+currently_building:
+  - AI-powered developer tools
+  - Full-stack web applications
+  - Intelligent iOS experiences
+
+interested_in:
+  - Software Engineering
+  - Artificial Intelligence & Machine Learning
+  - Data Science & Analytics
+  - Product Engineering
+  - Technology Consulting
+
+philosophy: "Build things that are useful, not just impressive."
+```
+
+---
+
+## 🚀 Things I've Built
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Languages
+### 🧠 AI Codebase Intelligence
 
-`Python` `SQL` `Java` `JavaScript`
-`HTML/CSS` `Swift` `Matlab` 
+**An AI-powered platform for understanding codebases.**
 
-### Data & Visualization
+Built a full-stack developer tool that ingests GitHub repositories, indexes code using embeddings and vector search, and retrieves relevant files to assist with debugging and issue triage.
 
-`Pandas` `NumPy` 
-`Tableau` `Power BI`
+`Python` `Next.js` `PostgreSQL` `pgvector` `OpenAI API`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Machine Learning
+### 🥬 Smart Pantry
 
-`XGBoost` `Random Forest` `KNN`
-`Logistic Regression` `SVM`
+**Making shared kitchens a little smarter.**
 
-### Deep Learning
+Building an intelligent pantry management application that uses receipt scanning, inventory tracking, and expiration monitoring to reduce household food waste.
 
-`PyTorch` `TensorFlow`
-`CNNs` `RNNs`
+`Swift` `SwiftUI` `Supabase` `PostgreSQL` `Google Cloud Vision`
 
 </td>
 </tr>
+
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Forecasting
+### 🔊 Real-Time Neural TTS
 
-`ARIMA` `SARIMAX`
-`Time-Series Analysis`
+**Giving interactive environments a voice.**
+
+Engineered a modular text-to-speech pipeline that integrates neural speech generation with Unreal Engine for real-time dialogue in research simulations.
+
+`Python` `SpeechT5` `Hugging Face` `Unreal Engine 5.3` `REST APIs`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Development
+### 📈 Investology
 
-`Flask` `REST APIs`
-`SQLite` `Git` `GitHub`
+**Financial literacy, but make it interactive.**
+
+Developed a native iOS financial education application featuring interactive lessons, gamified progression, and simulated investing experiences.
+
+`Swift` `SwiftUI` `Xcode` `iOS`
 
 </td>
 </tr>
 </table>
 
-## Selected Interests
-
-```text
-AI & Machine Learning     ███████████████████░
-Data-Driven Products      ██████████████████░░
-Finance & Markets         █████████████████░░░
-Startups & Consulting     ███████████████████░
-Human-Centered Design     █████████████████░░░
-```
-
-## Let’s Connect
-
-I’m always interested in meeting people working on ambitious ideas in technology, data, consulting, and entrepreneurship.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anshshah0/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:anshshah@utexas.edu">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 ---
+
+## 🛠️ My Technical Toolkit
 
 <div align="center">
 
-### `Always learning. Always building.`
+### Languages
 
-<sub>Thanks for stopping by.</sub>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+### Frameworks & Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### AI, Machine Learning & Data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Databases & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Where I've Worked & Learned
+
+| Organization | Role | What I Worked On |
+|:---|:---|:---|
+| ✈️ **Boeing** | Software Engineering & Analytics Intern | Internal web tools, forecasting automation, and avionics testing |
+| 🤖 **Uber AI Solutions** | Machine Learning Data Trainer | Dataset validation, data quality, and ML training support |
+| 🎓 **University of North Texas** | Applied ML Researcher | Neural text-to-speech, Unreal Engine, and AI inference pipelines |
+| 🛠️ **Texas Convergent** | Build Team Software Engineer | Full-stack development and intelligent inventory systems |
+| 📊 **Technology Consulting Group** | Consulting Fellow | Data analytics, market research, and technology strategy |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anshshah0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshshah0&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshshah0&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## ⚡ Beyond the Code
+
+```text
+$ cat interests.txt
+
+[01] Building products people actually want to use
+[02] Making AI more practical and accessible
+[03] Understanding how technology shapes businesses
+[04] Exploring startups, finance, and investing
+[05] Basketball, fitness, and discovering new food spots
+```
+
+I like projects that sit at the intersection of **technical complexity, practical usefulness, and thoughtful design**.
+
+The goal isn't just to make something work. It's to understand the problem, build a meaningful solution, and keep improving it.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always down to connect with people building interesting things.
+
+Whether it's **software engineering, AI/ML, startups, or an idea worth exploring**, feel free to reach out.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshshah0/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshshah@utexas.edu)
+
+<br/>
+
+---
+
+### `Stay curious. Build things. Make an impact.`
+
+<sub>Thanks for stopping by! 🤘</sub>
 
 </div>
