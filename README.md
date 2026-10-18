@@ -3,9 +3,9 @@
 
 # Hey, I'm Ansh 👋
 
-### Software Engineering × AI/ML × Human-Centered Data Science
+### Software Engineering × AI/ML × Data Science
 
-**Informatics @ The University of Texas at Austin 🤘**
+**Informatics + Data Science @ The University of Texas at Austin 🤘**
 
 *I build intelligent products that turn complex data into useful experiences.*
 
@@ -26,30 +26,6 @@ I enjoy working across the stack, whether that's building AI-powered developer t
 My experience includes software engineering and analytics at **Boeing**, machine learning data work with **Uber AI Solutions**, and applied ML research at the **University of North Texas**.
 
 Outside of building, you'll probably find me at the gym, playing basketball, exploring Austin's food scene, or thinking about my next project.
-
-```yaml
-ansh@github:~$ whoami
-
-name: Ansh Shah
-location: Austin, Texas
-university: UT Austin
-major: Informatics
-focus: Human-Centered Data Science
-
-currently_building:
-  - AI-powered developer tools
-  - Full-stack web applications
-  - Intelligent iOS experiences
-
-interested_in:
-  - Software Engineering
-  - Artificial Intelligence & Machine Learning
-  - Data Science & Analytics
-  - Product Engineering
-  - Technology Consulting
-
-philosophy: "Build things that are useful, not just impressive."
-```
 
 ---
 
@@ -97,7 +73,7 @@ Engineered a modular text-to-speech pipeline that integrates neural speech gener
 
 ### 📈 Investology
 
-**Financial literacy, but make it interactive.**
+**Financial literacy but  interactive.**
 
 Developed a native iOS financial education application featuring interactive lessons, gamified progression, and simulated investing experiences.
 
@@ -167,40 +143,6 @@ Developed a native iOS financial education application featuring interactive les
 | 🎓 **University of North Texas** | Applied ML Researcher | Neural text-to-speech, Unreal Engine, and AI inference pipelines |
 | 🛠️ **Texas Convergent** | Build Team Software Engineer | Full-stack development and intelligent inventory systems |
 | 📊 **Technology Consulting Group** | Consulting Fellow | Data analytics, market research, and technology strategy |
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anshshah0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshshah0&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshshah0&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## ⚡ Beyond the Code
-
-```text
-$ cat interests.txt
-
-[01] Building products people actually want to use
-[02] Making AI more practical and accessible
-[03] Understanding how technology shapes businesses
-[04] Exploring startups, finance, and investing
-[05] Basketball, fitness, and discovering new food spots
-```
-
-I like projects that sit at the intersection of **technical complexity, practical usefulness, and thoughtful design**.
-
-The goal isn't just to make something work. It's to understand the problem, build a meaningful solution, and keep improving it.
 
 ---
 
