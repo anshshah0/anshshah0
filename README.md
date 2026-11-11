@@ -46,13 +46,13 @@ Built a full-stack developer tool that ingests GitHub repositories, indexes code
 </td>
 <td width="50%" valign="top">
 
-### 🥬 Smart Pantry
+### 🥬 ShelfLife
 
 **Making shared kitchens a little smarter.**
 
 Building an intelligent pantry management application that uses receipt scanning, inventory tracking, and expiration monitoring to reduce household food waste.
 
-`Swift` `SwiftUI` `Supabase` `PostgreSQL` `Google Cloud Vision`
+`React Native` `Supabase` `PostgreSQL` `MySQL` `Google Cloud Vision`
 
 </td>
 </tr>
