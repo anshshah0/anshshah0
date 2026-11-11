@@ -52,7 +52,7 @@ Built a full-stack developer tool that ingests GitHub repositories, indexes code
 
 Building an intelligent pantry management application that uses receipt scanning, inventory tracking, and expiration monitoring to reduce household food waste.
 
-`React Native` `Supabase` `PostgreSQL` `MySQL` `Google Cloud Vision`
+`React Native` `Supabase` `PostgreSQL` `MySQL` `Google Cloud OCR`
 
 </td>
 </tr>
